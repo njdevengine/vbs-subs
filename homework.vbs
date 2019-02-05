@@ -49,7 +49,7 @@ ws.Cells(i, 10).Interior.ColorIndex = 43
 Else
 ws.Cells(i, 10).Interior.ColorIndex = 38
 End If
-
 Next i
+
 Next ws
 End Sub
